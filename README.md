@@ -1,7 +1,7 @@
 # EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
 
-## Name: Alan Samuel Vedanayagam
-## Reg. no: 212223040012
+## Name: YUGABHARATHI M
+## Reg. no: 212224230314
 
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
